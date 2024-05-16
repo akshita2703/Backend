@@ -1,0 +1,19 @@
+what is Node.js?
+v8 is the most popular engine 
+
+v8 + c++ = nodejs -- ryan dahl
+
+you can run js outside of the browser 
+js can talk to native machine because of c++
+you can create webserver in js language 
+
+node js is runtime env for js
+
+//console.log(alert("hey")); window object or dom related wala stuff hatt diye gye h node js
+
+
+"start":"node hello.js"   to the start the file --------- npm start
+
+
+
+ 

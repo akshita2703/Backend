@@ -1,0 +1,1 @@
+fs.mkdirSync("srishti-chutiya/Demoo/demo1",{recursive:true});
