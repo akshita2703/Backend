@@ -1,0 +1,5 @@
+--- Generate Dynamic PDF -----
+
+1. Load Dynamic Data.
+2.Load CSS
+3. Load img (ye abhi mere kaam ka nhi h but padhne m kya dikkat)
